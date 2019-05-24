@@ -1,3 +1,5 @@
 # pps
 Programación para Sistemas
-precticas de Programacion para sistemas
+
+
+Practicas de Programacion para sistemas
