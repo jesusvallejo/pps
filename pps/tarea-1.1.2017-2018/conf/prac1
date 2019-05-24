@@ -1,0 +1,4 @@
+MINIENTREGA_FECHALIMITE="20193331"
+MINIENTREGA_FICHEROS="informe.txt programa.c"
+MINIENTREGA_DESTINO="./destino/entrega-prac1"
+

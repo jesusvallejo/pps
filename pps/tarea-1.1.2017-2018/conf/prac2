@@ -1,0 +1,4 @@
+MINIENTREGA_FECHALIMITE="2019-03-31"
+MINIENTREGA_FICHEROS="informe.txt programa.c bucles.c"
+MINIENTREGA_DESTINO="./destino/entrega-prac"
+
